@@ -3,8 +3,8 @@
 ## Description
 
     In this challenge we demonstrated skills to identify ways to optimize our webpage by refactoring sample code and optimizing that code with proper HTML semantics. 
-The page also had broken links fixed and added alt text to images to aid with accessibility of the web page. This was a great demonstration of some of the skills we have learned 
-that could be used in a possible real life situation.
+The page also had broken links fixed and added alt text to images to aid with accessibility of the web page. 
+This was a great demonstration of some of the skills we have learned that could be used in a possible real life situation.
 
 ## Installation
 
