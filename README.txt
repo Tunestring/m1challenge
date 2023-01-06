@@ -2,17 +2,17 @@
 
 ## Description
 
-In this challenge we demonstrated skills to identify ways to optimize our webpage by refactoring sample code and optimizing that code with proper HTML semantics. 
+    In this challenge we demonstrated skills to identify ways to optimize our webpage by refactoring sample code and optimizing that code with proper HTML semantics. 
 The page also had broken links fixed and added alt text to images to aid with accessibility of the web page. This was a great demonstration of some of the skills we have learned 
 that could be used in a possible real life situation.
 
 ## Installation
 
-N/A
+    N/A
 
 ## Usage
 
-Webpage launched on Git Hub and is immediately available for use
+    Webpage launched on Git Hub and is immediately available for use
 
 ## Credits
 
@@ -25,4 +25,4 @@ And as always, to the helpful classmates that help steer me in the right directi
 
 ## License
 
-Please refer to the LICENSE in the repo.
+    Please refer to the LICENSE in the repo.
